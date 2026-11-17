@@ -2,6 +2,7 @@
   "name": "profile-picture-studio",
   "private": true,
   "version": "1.0.0",
+  "license": "AGPL-3.0-only",
   "type": "module",
   "scripts": {
     "postinstall": "node scripts/copy-assets.mjs",

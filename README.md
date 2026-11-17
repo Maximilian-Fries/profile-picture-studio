@@ -66,7 +66,10 @@ Nothing is generated. Your face, hair and clothes are your own pixels. The work 
 - `src/lib/ai.ts` and `server/ai-plugin.ts` the optional AI enhance feature
 - `src/components/` the interface
 
-## Licences
+## Licence
 
-`@imgly/background-removal` is AGPL-3.0: fine for personal use, but publishing this app
-publicly means sharing its source or buying a licence from IMG.LY. MediaPipe is Apache-2.0.
+This project is licensed under the [GNU Affero General Public License v3.0](LICENSE).
+
+It has to be: the cut-out library it builds on, `@imgly/background-removal`, is AGPL-3.0.
+In short, if you run a modified version as a public service, you must publish your changes
+under the same licence. MediaPipe (face detection) is Apache-2.0.
