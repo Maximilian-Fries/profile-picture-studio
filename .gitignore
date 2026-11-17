@@ -1,0 +1,8 @@
+node_modules
+dist
+public/mediapipe
+.gstack/
+.env
+.env.local
+ai-test-before-after.jpg
+.DS_Store
